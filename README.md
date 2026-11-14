@@ -79,8 +79,7 @@ This lab provided valuable hands-on experience in web application assessment, Li
 **Debmalya Thakur**  
 Cybersecurity Enthusiast | Aspiring VAPT & Application Security Professional
 
-- LinkedIn: [Connect with me](https://www.linkedin.com/in/debmalya-thakur-9b240417b/)
-- GitHub: [My Security Portfolio](https://debmalyathakur.github.io/portfolio)
+- LinkedIn: https://www.linkedin.com/in/debmalya-thakur-9b240417b/
 
 ---
 
